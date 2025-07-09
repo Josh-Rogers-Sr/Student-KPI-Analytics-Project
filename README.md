@@ -7,7 +7,7 @@ This is a project to track KPIs related to student success at a fictional univer
 `temp.avg_department_gpa.csv` – SQL output of GPA averages per department
 `temp.percent_at_risk.csv` – SQL output of student risk percentages by year
 `temp.advising_sessions_attended.csv` – SQL output showing advising session counts vs. risk
-`Student KPI Analysis.db` – SQLite database containing the full dataset and queries
+`Student KPI Analytics Project.db` – SQLite database containing the full dataset and queries
 `Student_KPI_dataset_analysis.ipynb` – Colab notebook performing analysis and plotting
 
 ## Objective
