@@ -1,0 +1,198 @@
+student_id,department,year,gpa,attendance_rate,advising_sessions_attended,is_at_risk
+1,Education,Senior,4,77.4,0,0
+2,Biology,Senior,2.98,76.2,1,0
+3,Psychology,Senior,2.99,71.7,2,0
+4,Biology,Freshman,3.1,77.3,1,0
+5,Biology,Senior,3.3,80.1,6,0
+6,Engineering,Freshman,2.83,84.5,1,0
+7,Psychology,Sophomore,3.3,78.5,2,0
+8,Psychology,Freshman,2.03,69,1,0
+9,Psychology,Sophomore,3.17,69.9,2,0
+10,Biology,Senior,3.03,91.8,3,0
+11,Education,Senior,2.89,83.8,2,0
+12,Psychology,Sophomore,2.76,91.5,4,0
+13,Computer Science,Junior,2.7,92.8,2,0
+14,Biology,Sophomore,2.59,86.5,1,0
+15,Engineering,Junior,1.84,72.7,2,0
+16,Education,Freshman,2.87,86.9,0,0
+17,Computer Science,Freshman,3.55,99,2,0
+18,Computer Science,Freshman,2.83,80.5,0,0
+19,Engineering,Senior,3.32,88.4,2,0
+20,Education,Freshman,2.46,84.9,3,0
+21,Biology,Junior,2.35,98.7,0,0
+22,Business,Freshman,2.62,78.2,0,0
+23,Education,Sophomore,2.49,96.5,2,1
+24,Engineering,Sophomore,2.41,81.2,1,0
+25,Computer Science,Senior,3.22,78.1,2,0
+26,Biology,Sophomore,3.89,86.1,1,0
+27,Education,Junior,2.67,88.4,3,0
+28,Business,Freshman,2.15,100,2,0
+29,Business,Senior,3.33,88.2,4,0
+30,Psychology,Freshman,2.28,86.9,2,1
+31,Psychology,Freshman,2.41,100,2,0
+32,Engineering,Junior,3.25,91,1,0
+33,Education,Sophomore,2.92,78.6,2,0
+34,Education,Sophomore,2.66,98.6,1,0
+35,Computer Science,Freshman,3.03,77.6,3,0
+36,Computer Science,Senior,2.8,78.5,2,0
+37,Computer Science,Sophomore,3.94,76.5,1,0
+38,Psychology,Senior,2.66,75.6,3,1
+39,Education,Sophomore,2.54,88.3,2,0
+40,Education,Senior,2.77,82.4,3,0
+42,Psychology,Senior,3.3,82.3,1,0
+43,Biology,Junior,2,79.8,1,0
+44,Psychology,Junior,3.21,93.9,3,0
+45,Biology,Senior,2.73,79.4,5,0
+46,Business,Junior,3.39,100,1,0
+47,Engineering,Freshman,2.98,99,2,0
+48,Education,Junior,3.26,81.1,6,1
+49,Business,Sophomore,2.8,96.5,3,0
+50,Education,Senior,3.22,90.3,1,0
+51,Computer Science,Freshman,3.83,87.3,0,0
+52,Engineering,Senior,2.63,93,3,1
+53,Engineering,Sophomore,2.95,85.5,5,0
+54,Business,Sophomore,2.76,87.4,2,0
+55,Engineering,Sophomore,3.8,93.2,3,0
+56,Biology,Junior,2.78,100,4,0
+57,Engineering,Junior,2.63,87.5,3,0
+58,Education,Senior,2.71,80.5,3,0
+59,Education,Senior,2.93,64.7,1,0
+60,Education,Freshman,2.6,100,2,0
+61,Education,Freshman,2.82,82.4,6,0
+62,Biology,Senior,3.08,90.3,0,0
+63,Psychology,Junior,2.94,100,3,0
+64,Computer Science,Sophomore,3.42,87.3,1,0
+65,Business,Senior,2.84,83.1,2,0
+66,Education,Freshman,2.9,99.2,4,0
+67,Engineering,Junior,3.14,89.6,2,0
+68,Education,Senior,4,90.9,2,1
+69,Engineering,Senior,2.61,69.8,1,0
+70,Computer Science,Junior,3.96,97.1,6,0
+71,Computer Science,Senior,2.41,88.8,1,0
+72,Computer Science,Junior,3.11,71.3,1,0
+73,Engineering,Sophomore,2.83,89.9,1,0
+74,Education,Junior,2.59,64.4,3,0
+75,Computer Science,Junior,3.35,100,2,0
+76,Biology,Junior,3.3,74,2,0
+77,Engineering,Senior,2.76,100,2,1
+78,Engineering,Senior,1.95,76.9,0,0
+79,Education,Junior,2.79,90.6,0,0
+80,Engineering,Senior,3.07,75.9,1,0
+81,Engineering,Freshman,3,95,0,0
+82,Computer Science,Freshman,3.38,82.6,4,0
+83,Education,Senior,3.97,89.7,1,0
+85,Computer Science,Junior,3.28,71.3,1,0
+86,Education,Sophomore,3.07,90,1,0
+87,Business,Senior,3.59,80,4,1
+88,Computer Science,Freshman,3.27,95.5,0,0
+89,Biology,Junior,3.37,82.6,2,0
+90,Biology,Senior,3.9,84.2,3,0
+91,Engineering,Freshman,3.11,100,3,0
+92,Biology,Freshman,2.86,100,2,1
+93,Engineering,Sophomore,3.22,92.9,3,0
+94,Business,Junior,3.57,82.1,4,0
+95,Education,Junior,3.25,81.3,3,0
+96,Education,Sophomore,3.53,76.8,2,1
+97,Education,Sophomore,2.67,78.7,1,0
+98,Biology,Junior,2.57,82.3,1,1
+99,Business,Junior,2.73,100,0,0
+100,Biology,Senior,2.37,83,0,0
+101,Biology,Senior,3.06,72.7,0,0
+102,Business,Sophomore,2.78,85.4,0,0
+103,Business,Senior,3.62,86.8,2,0
+104,Business,Freshman,2.35,85.4,1,0
+105,Business,Senior,3.78,93,2,0
+106,Education,Senior,2.51,85.7,0,1
+107,Psychology,Freshman,2.38,92.7,2,1
+108,Psychology,Sophomore,2.59,77.2,2,0
+109,Business,Freshman,3.98,100,1,0
+110,Psychology,Senior,2.98,87.5,0,0
+111,Psychology,Sophomore,3.26,89,1,0
+112,Business,Senior,2.91,77.2,3,0
+113,Psychology,Freshman,2.95,89.7,6,0
+114,Biology,Freshman,2.75,91.5,2,1
+115,Engineering,Senior,3.03,73.3,1,0
+116,Engineering,Junior,3.25,68.4,0,1
+117,Business,Junior,3.84,87.9,1,1
+118,Education,Freshman,2.06,80.1,4,0
+119,Business,Freshman,3.81,87.6,3,1
+120,Education,Junior,3.26,72.1,4,0
+121,Engineering,Junior,2.82,69.4,2,0
+122,Business,Senior,2.73,87.1,4,0
+123,Computer Science,Senior,3.52,81.5,1,0
+124,Biology,Junior,3.11,63.9,1,0
+125,Psychology,Senior,2.23,98.4,3,0
+126,Education,Senior,3.18,71.9,1,0
+127,Computer Science,Sophomore,3.57,100,1,0
+128,Psychology,Senior,3.43,78.8,2,0
+129,Psychology,Freshman,2.69,89,2,0
+130,Business,Senior,2.33,100,5,0
+131,Psychology,Senior,2.84,99.8,4,0
+132,Biology,Junior,4,100,1,0
+133,Computer Science,Freshman,2.23,69.8,1,0
+134,Psychology,Senior,2.58,73.6,1,0
+135,Business,Senior,3.2,87.3,1,0
+136,Biology,Sophomore,2.94,93.4,4,0
+137,Engineering,Senior,2.9,84.9,3,0
+138,Computer Science,Senior,4,68.6,2,0
+139,Psychology,Sophomore,2.57,90,1,1
+140,Business,Junior,2.99,83.1,2,0
+141,Engineering,Senior,3.1,82.9,1,1
+142,Engineering,Sophomore,2.6,62.2,1,0
+143,Education,Freshman,2.28,93,1,0
+144,Biology,Junior,3.13,86.5,3,0
+145,Psychology,Freshman,3.91,100,2,0
+146,Business,Freshman,3.2,84.3,2,0
+147,Education,Sophomore,3.05,90.7,3,0
+148,Biology,Senior,3.04,93.3,0,0
+149,Education,Sophomore,2.87,67.5,5,0
+150,Computer Science,Sophomore,3.59,100,1,0
+151,Biology,Sophomore,2.75,80.7,3,0
+152,Biology,Sophomore,2.32,89.9,0,0
+153,Psychology,Junior,2.21,91.4,1,0
+154,Biology,Senior,3.04,76.9,1,0
+155,Education,Freshman,3.53,100,3,1
+156,Biology,Freshman,3.12,87.7,3,0
+157,Psychology,Senior,2.84,82.9,2,1
+158,Psychology,Freshman,3.23,86.4,6,0
+159,Computer Science,Senior,3.09,92.6,3,0
+160,Education,Freshman,3.41,85.1,4,0
+161,Engineering,Sophomore,3.66,93.8,1,0
+162,Engineering,Freshman,2.52,68.2,0,0
+163,Biology,Senior,1.83,77.5,1,0
+164,Computer Science,Senior,2.82,63.6,1,0
+165,Business,Senior,2.49,100,4,0
+166,Biology,Senior,3.42,100,1,0
+167,Computer Science,Senior,2.64,91.3,2,1
+168,Education,Junior,2.06,74.9,1,0
+169,Education,Junior,2.71,100,1,0
+170,Education,Freshman,2.25,79,2,0
+171,Education,Senior,3.8,82.9,2,0
+172,Education,Freshman,3.24,86.6,4,0
+173,Computer Science,Senior,3.32,89.5,5,1
+174,Computer Science,Senior,3.27,91.4,0,0
+175,Psychology,Junior,3.42,91.8,1,0
+176,Engineering,Junior,3.57,83.6,1,0
+177,Education,Sophomore,2.73,91.7,3,1
+178,Business,Junior,2.29,83.1,2,0
+179,Computer Science,Sophomore,2.58,90.8,2,0
+180,Business,Sophomore,2.98,90,3,0
+182,Business,Sophomore,3.57,91.4,2,0
+183,Psychology,Sophomore,2.05,80.6,4,1
+184,Computer Science,Freshman,3.3,89.6,5,0
+185,Business,Junior,2.92,91.5,4,0
+186,Education,Sophomore,3.14,72.1,0,0
+187,Biology,Senior,2.76,82.3,1,0
+188,Business,Junior,3.11,91.1,3,0
+189,Psychology,Junior,2.76,100,2,0
+190,Computer Science,Sophomore,2.72,93.2,3,0
+191,Psychology,Freshman,2.55,100,1,0
+192,Business,Sophomore,3.76,81,2,0
+193,Computer Science,Freshman,3.18,87.5,1,0
+194,Biology,Senior,3.1,93.1,1,0
+195,Business,Junior,2.56,61.7,1,0
+196,Psychology,Senior,2.88,100,3,0
+197,Engineering,Freshman,2.51,66.4,5,0
+198,Education,Freshman,2.75,95,2,1
+199,Psychology,Senior,2.4,91.9,3,0
+200,Computer Science,Freshman,3.79,61.6,3,0
